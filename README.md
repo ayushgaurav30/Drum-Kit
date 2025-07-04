@@ -1,1 +1,2 @@
 # Drum-Kit
+This is a simple Drum Kit web project built with HTML, CSS, and JavaScript. You can play different drum sounds by either clicking the buttons on the screen or pressing the corresponding keys on your keyboard (w, a, s, d, j, k, l). It’s a fun way to learn about event listeners, DOM manipulation, and working with audio in the browser. Feel free to fork, improve, and experiment with the code!
